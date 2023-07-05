@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../compare"
+		},
+		{
+			"path": "../exceptionhandling"
+		},
+		{
+			"path": "../linkedlist"
+		},
+		{
+			"path": "../Mapsdemo"
+		},
+		{
+			"path": "../methodoverloading"
+		},
+		{
+			"path": "../polymorphism"
+		},
+		{
+			"path": "../queue"
+		},
+		{
+			"path": "."
+		}
+	]
+}
